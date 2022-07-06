@@ -40,14 +40,14 @@
       "image": "TODO"
     },
     "home team": {
-      "name": "Argentina",
-      "strength": 5,
-      "image": "https://www.bandeirasnacionais.com/data/flags/normal/ar.png"
+      "name": "Colômbia",
+      "strength": 4,
+      "image": "https://www.bandeirasnacionais.com/data/flags/normal/co.png"
     },
     "away team": {
       "name": "Brasil",
       "strength": 5,
       "image": "https://www.bandeirasnacionais.com/data/flags/normal/br.png"
     }
-  }, 
+  }
 ]
