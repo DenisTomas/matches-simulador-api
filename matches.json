@@ -3,7 +3,7 @@
     "description": "Eliminatórias Copa 2022",
     "place": {
       "name": "Maracanã",
-      "image": "TODO"
+      "image": "https://vejario.abril.com.br/wp-content/uploads/2021/07/maracana.jpg"
     },
     "home team": {
       "name": "Brasil",
@@ -20,7 +20,7 @@
     "description": "Eliminatórias Copa 2022",
     "place": {
       "name": "Estádio Centenário",
-      "image": "TODO"
+      "image": "https://www.cronicas.com.uy/wp-content/uploads/2021/12/philips.jpg"
     },
     "home team": {
       "name": "Uruguay",
@@ -36,8 +36,8 @@
    {
     "description": "Eliminatórias Copa 2022",
     "place": {
-      "name": "La Bombonera",
-      "image": "TODO"
+      "name": "Estadio Roberto Meléndez",
+      "image": "https://diariodonordeste.verdesmares.com.br/image/contentid/policy:1.3106400:1639595102/Mane-Garrincha.jpg?f=16x9&h=720&q=0.8&w=1280&$p$f$h$q$w=8bf8bb8"
     },
     "home team": {
       "name": "Colômbia",
